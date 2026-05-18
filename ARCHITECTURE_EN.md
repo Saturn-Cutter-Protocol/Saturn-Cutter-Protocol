@@ -37,9 +37,7 @@ KPI Evaluation
 SYSTEM ADJUSTMENT
 ```
 
-
-
-  ## 3. Loop A — Noise Reduction Layer
+## 3. Loop A — Noise Reduction Layer
 
 Function
 Reduces incoming environmental entropy.
