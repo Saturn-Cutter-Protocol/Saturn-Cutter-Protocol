@@ -35,8 +35,9 @@ EXECUTION OUTPUT
 KPI Evaluation
         ↓
 SYSTEM ADJUSTMENT
-
 ```
+
+
 
   ## 3. Loop A — Noise Reduction Layer
 
@@ -59,7 +60,7 @@ Lower cognitive volatility.
 
 
 
-## 4.Loop B — External Fixation Layer
+## 4. Loop B — External Fixation Layer
 
 Function
 
@@ -178,7 +179,10 @@ Notification suppression,
 Logging implementation,
 KPI tracking,
 Progressive workload escalation.
-11. System State Definition
+
+---
+
+## 11. System State Definition
 
 The system is considered stable when:
 
