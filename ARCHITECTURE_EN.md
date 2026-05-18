@@ -57,9 +57,9 @@ Reduced interruption frequency,
 Increased focus duration,
 Lower cognitive volatility.
 
-```
 
- ## 4.Loop B — External Fixation Layer
+
+## 4.Loop B — External Fixation Layer
 
 Function
 
@@ -81,7 +81,7 @@ Task clarity,
 Reduced ambiguity,
 Improved execution continuity.
 
-```
+
 
  ## 5. Loop C — PBSI Stabilization Layer
 Function
@@ -105,7 +105,7 @@ Verified inputs,
 Noise filtration,
 Entropy control.
 
-```
+
 
  ## 6. KPI Layer
 
@@ -129,7 +129,7 @@ Recovery Index
 
 Measures physiological stabilization quality.
 
-```
+
 
  ## 7. Control Logic
 
@@ -145,7 +145,7 @@ Protocol Correction
 
 The system prioritizes structural correction over motivational compensation.
 
-```
+
 
 ## 8. Failure Modes
 
@@ -157,7 +157,7 @@ Symbolic inflation,
 Sleep degradation,
 Task accumulation without execution.
 
-```
+
 
  ## 9. Stabilization Principle
 
