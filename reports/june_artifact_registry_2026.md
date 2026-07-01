@@ -7,7 +7,7 @@
 
 ## Project
 
-Human Architecture Cognitive System (H-ACS)
+Human-AI Cognitive System (H-ACS)
 
 Repository
 
