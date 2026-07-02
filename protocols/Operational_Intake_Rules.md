@@ -16,6 +16,26 @@ Operational rules are stable behaviour accepted by the system after empirical ve
 
 ---
 
+# Rule 001
+
+Title
+
+Facts before plans.
+
+Definition
+
+The repository records completed facts, observed failures and validated improvements.
+
+Future intentions are not stored until they become operational behaviour.
+
+Reason
+
+Planning under resource deficit creates cognitive debt.
+
+Facts create structural continuity.
+
+---
+
 # Rule 002
 
 Title
