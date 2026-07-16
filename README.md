@@ -85,3 +85,24 @@ The protocol is based on one primary rule:
 Operational engineering framework.
 
 Version: V3.1 
+
+## Current Status — July 2026
+
+The project continues as an active field laboratory.
+
+The methodology is being developed through real-world application rather than theoretical assumptions.
+
+Current research focuses on:
+
+- Human-AI Cognitive System (H-ACS)
+- Operational discipline under uncertainty
+- Decision systems under prolonged stress
+- Cognitive recovery protocols
+- Human-AI collaborative reasoning
+- Long-term architecture of personal operating systems
+
+This repository is intentionally evolutionary.
+
+Every document may change as new evidence appears.
+
+The objective is not to defend previous conclusions but to improve the architecture itself.
