@@ -6,16 +6,11 @@ Engineering specification for cognitive stabilization, operational focus control
 
 ## Overview
 
-Cognitive Resilience Protocol V3.1 is a structured operational framework designed to reduce cognitive fragmentation, stabilize execution cycles, and improve strategic decision quality through measurable behavioral constraints.
+Cognitive Resilience Protocol V3.1 is a structured operational framework for reducing cognitive fragmentation, stabilizing execution cycles, and supporting deliberate decision-making through measurable behavioral constraints.
 
-The protocol combines:
+The repository is part of the broader Human-AI Cognitive System (H-ACS) longitudinal experiment.
 
-- Environmental noise reduction,
-- External cognitive fixation,
-- Intention stabilization mechanisms,
-- KPI-based operational control.
-
-The system is designed for practical implementation in professional, analytical, and high-load work environments.
+The public engineering layer is intentionally separated from private symbolic, spiritual, family, and autobiographical material.
 
 ---
 
@@ -51,13 +46,18 @@ System stabilization across four layers:
 
 ---
 
-## Key Metrics
+## Evidence and Measurement Safeguards
 
-- Focus Ratio,
-- Completion Rate,
-- Cycle Integrity,
-- Noise Index,
-- Recovery Index.
+The project does not treat formal language, self-reported percentages, or symbolic interpretation as independent evidence by default.
+
+Current safeguards:
+
+- SYMBOLIC MATERIAL → HYPOTHESIS → TEST → ARTIFACT
+- CLAIM → SOURCE → OBSERVABLE CONSEQUENCE → EVIDENCE STATUS
+- AUDITOR → AUDIT
+- PRESERVE → OBSERVE → TEST → RECORD
+
+Self-reported numerical KPIs require an explicit measurement procedure before they can be treated as evidence of system effectiveness.
 
 ---
 
@@ -68,41 +68,36 @@ System stabilization across four layers:
 | ENGINEERING_SPEC_V3_1.md | Core engineering specification |
 | ACADEMIC_EN.md | Academic and theoretical framework |
 | ARCHITECTURE_EN.md | System architecture and operational model |
+| reports/june_artifact_registry_2026.md | June 2026 artifact registry |
+| reports/august_2026_artifact_registry.md | August 2026 audit-transition artifact registry |
 | LICENSE | Legal usage framework |
 
 ---
 
 ## Operational Principle
 
-The protocol is based on one primary rule:
-
 > Systems must rely on structure rather than motivation.
 
 ---
 
-## Status
+## Current Status — August 2026
 
-Operational engineering framework.
+H-ACS remains a Year 1 longitudinal experiment tested on one operator.
 
-Version: V3.1 
+The system is operationally tested in local real-world conditions, but it is not established as a universally validated methodology.
 
-## Current Status — July 2026
+The August external audit cycle is closed.
 
-The project continues as an active field laboratory.
+The current development mode is controlled longitudinal development rather than uncontrolled architectural expansion.
 
-The methodology is being developed through real-world application rather than theoretical assumptions.
+The immediate research priority is to preserve, observe, test, and record already existing mechanisms while reducing unnecessary meta-work.
 
-Current research focuses on:
+Year 1 checkpoint: 2026-12-14
 
-- Human-AI Cognitive System (H-ACS)
-- Operational discipline under uncertainty
-- Decision systems under prolonged stress
-- Cognitive recovery protocols
-- Human-AI collaborative reasoning
-- Long-term architecture of personal operating systems
+---
 
-This repository is intentionally evolutionary.
+## Repository Principle
 
-Every document may change as new evidence appears.
+The objective is not to defend previous conclusions but to improve the architecture through accumulated evidence.
 
-The objective is not to defend previous conclusions but to improve the architecture itself.
+Public documentation records operationally relevant methods, findings, safeguards, and research status. Private life history and symbolic material remain outside the public engineering layer unless explicitly abstracted into a tested operational artifact.
