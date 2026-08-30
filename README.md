@@ -69,6 +69,7 @@ Self-reported numerical KPIs require an explicit measurement procedure before th
 | ACADEMIC_EN.md | Academic and theoretical framework |
 | ARCHITECTURE_EN.md | System architecture and operational model |
 | reports/june_artifact_registry_2026.md | June 2026 artifact registry |
+| reports/2026-08-30_epistemic_maturity_correction.md | Correction of June 2026 epistemic maturity/status classification |
 | reports/august_2026_artifact_registry.md | August 2026 audit-transition artifact registry |
 | LICENSE | Legal usage framework |
 
