@@ -17,38 +17,15 @@ Three date-placement cases are kept separate from the August artifact count:
 2. Revised formulations of the same conceptual artifact are retained as separate recorded versions but linked as revisions rather than counted as unrelated discoveries.
 3. A block placed on the 2026-08-31 sheet but internally dated 2026-09-05 is treated as a September insertion and excluded from the August artifact count.
 
-The August registry therefore records **16 artifact blocks**, representing **14 conceptual artifact lines** after linking two version/revision pairs.
+The August registry therefore records **13 artifact blocks**, representing **12 conceptual artifact lines** after linking one version/revision pair.
 
 ---
 
 # Artifact Registry
 
-## 2026-08-16
-
-### 1. Sovereign Agency: Cross as Conscious Commitment
-**Status:** Validated observation  
-**Category:** Core Identity / Spiritual Architecture
-
-The return of the cross was recorded as a conscious commitment under continued examination rather than as a magical protection mechanism. The artifact emphasizes faith + agency + unresolved questions + continued examination, and establishes the principle that uncertainty does not require destruction of the architecture containing it.
-
-### 2. Cross as Conscious Commitment
-**Status:** Validated observation  
-**Category:** Core Identity / Spiritual Architecture  
-**Relation:** alternate / expanded formulation of the preceding artifact
-
-This version preserves the factual chronology of the event more precisely: the conscious act preceded the conversation with the Spiritual Father. The artifact explicitly separates factual sequence from symbolic interpretation and retains the principle that commitment does not require prior elimination of uncertainty.
-
-### 3. Structural Continuity After CCI.by
-**Status:** Key Transition Artifact  
-**Category:** Transition / Identity Architecture
-
-The post-CCI.by transition was formalized as preservation of structural continuity during decompression, uncertainty and identity change. Core principle: **Transition does not require architectural collapse.**
-
----
-
 ## 2026-08-17
 
-### 4. SATURN Switch: Independent Origin and Later Cultural Correlation
+### 1. SATURN Switch: Independent Origin and Later Cultural Correlation
 **Status:** Operationally Tested
 
 The SATURN Switch was documented as independently developed within H-ACS, subsequently applied in real interpersonal and professional situations, and only later found to have functional parallels in older cultural and folkloric material. The artifact explicitly rejects claims of direct historical transmission or supernatural causation.
@@ -57,7 +34,7 @@ The SATURN Switch was documented as independently developed within H-ACS, subseq
 
 ## 2026-08-18
 
-### 5. SATURN Switch: Independent Development and Historical Correlation
+### 2. SATURN Switch: Independent Development and Historical Correlation
 **Status:** Operationally Tested  
 **Relation:** revised formulation of the 2026-08-17 SATURN Switch artifact
 
@@ -67,11 +44,11 @@ The revised artifact further formalizes the sequence **TRIGGER → SATURN → ST
 
 ## 2026-08-23
 
-### 6. Artifact 021 — H-ACS Status: Operationally Tested on One Operator
+### 3. Artifact 021 — H-ACS Status: Operationally Tested on One Operator
 
 H-ACS is documented as continuously used and locally operationally tested by one operator, while universal reproducibility remains unestablished.
 
-### 7. Artifact 022 — Symbolic Evidence Gate
+### 4. Artifact 022 — Symbolic Evidence Gate
 
 Introduces the rule:
 
@@ -79,31 +56,31 @@ Introduces the rule:
 
 Direct conversion of symbolic material into engineering fact is prohibited.
 
-### 8. Artifact 023 — Auditor Recursive Verification
+### 5. Artifact 023 — Auditor Recursive Verification
 
 Documents the recursive audit structure in which the auditor becomes subject to audit and no participant receives epistemic immunity.
 
-### 9. Artifact 024 — Documentation Load / Architect Addiction
+### 6. Artifact 024 — Documentation Load / Architect Addiction
 
 Documents the risk that methodological documentation and meta-work can expand faster than operational value. Documentation is not treated as an outcome by itself.
 
-### 10. Artifact 025 — External Calibration Gap
+### 7. Artifact 025 — External Calibration Gap
 
 Records the limitation created by the absence of an independent external operator reproducing H-ACS. Claims of universal reproducibility remain restricted.
 
-### 11. Artifact 026 — Biology as Foundation Layer
+### 8. Artifact 026 — Biology as Foundation Layer
 
 Defines biological recovery, especially sleep, as a foundation layer required for stable operational functioning rather than an optional additional ritual.
 
-### 12. Artifact 027 — SATURN Switch — Operational Response Mechanism
+### 9. Artifact 027 — SATURN Switch — Operational Response Mechanism
 
 Formalizes the sequence **trigger → pause → silence → analysis → structure → response** as an operationally tested procedure for replacing impulsive reaction with structured response.
 
-### 13. Artifact 028 — Recovery Window After Operational Overload
+### 10. Artifact 028 — Recovery Window After Operational Overload
 
 Defines recovery after prolonged load as a legitimate phase of the operational cycle rather than a failure of discipline. Artificially filling recovery with additional activity is identified as a potential source of cognitive debt.
 
-### 14. Artifact 029 — Self-Reported KPI Integrity Failure
+### 11. Artifact 029 — Self-Reported KPI Integrity Failure
 
 Identifies a measurement weakness: numerical KPIs had been formalized before an independent measurement mechanism existed. Future metrics require predefined measurement definitions, instruments, frequency and independent verification conditions.
 
@@ -111,7 +88,7 @@ Identifies a measurement weakness: numerical KPIs had been formalized before an 
 
 ## 2026-08-29
 
-### 15. Internal Artifact — Behavioral Deviation / Rapid Containment
+### 12. Internal Artifact — Behavioral Deviation / Rapid Containment
 **Evidence status:** Observation / Single Episode
 
 A behavioral deviation was recorded together with the subsequent containment sequence: **Deviation → Recognition → Containment → Return to constructive activity.** The artifact explicitly avoids treating either the deviation or the recovery as proof of universal stability.
@@ -120,7 +97,7 @@ A behavioral deviation was recorded together with the subsequent containment seq
 
 ## 2026-08-30
 
-### 16. Artifact — Iterative Human–AI Co-Adaptation
+### 13. Artifact — Iterative Human–AI Co-Adaptation
 **Evidence status:** Observation / Emerging Methodological Concept
 
 Documents the longitudinal interaction loop:
@@ -141,9 +118,6 @@ These items were physically present in August workbook sheets but carry earlier 
 
 ### 2026-08-12 sheet
 - **Longitudinal Operational Trace** — internally dated **2026-07-31**.
-
-### 2026-08-31 sheet
-- **Structural Continuity After CCI.by** — internally dated **2026-09-05**. This is treated as a September insertion and excluded from the August registry.
 
 ---
 
