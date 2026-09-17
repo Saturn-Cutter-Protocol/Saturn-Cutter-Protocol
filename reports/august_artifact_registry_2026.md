@@ -17,15 +17,25 @@ Three date-placement cases are kept separate from the August artifact count:
 2. Revised formulations of the same conceptual artifact are retained as separate recorded versions but linked as revisions rather than counted as unrelated discoveries.
 3. A block placed on the 2026-08-31 sheet but internally dated 2026-09-05 is treated as a September insertion and excluded from the August artifact count.
 
-The August registry therefore records **13 artifact blocks**, representing **12 conceptual artifact lines** after linking one version/revision pair.
+The August registry therefore records **14 artifact blocks**, representing **13 conceptual artifact lines** after linking one version/revision pair.
 
 ---
 
 # Artifact Registry
 
+## 2026-08-16
+
+### 1. Structural Continuity After Company
+**Status:** Key Transition Artifact  
+**Category:** Transition / Identity Architecture
+
+After leaving a company, structural continuity of H-ACS was preserved: the end of employment did not constitute an exit from the system. Practices continued outside the work context, including systematic maintenance of the Cycle Table and ongoing fixation and processing of material. The artifact records the principle that a change in external context does not by itself require collapse of the internal operational architecture.
+
+---
+
 ## 2026-08-17
 
-### 1. SATURN Switch: Independent Origin and Later Cultural Correlation
+### 2. SATURN Switch: Independent Origin and Later Cultural Correlation
 **Status:** Operationally Tested
 
 The SATURN Switch was documented as independently developed within H-ACS, subsequently applied in real interpersonal and professional situations, and only later found to have functional parallels in older cultural and folkloric material. The artifact explicitly rejects claims of direct historical transmission or supernatural causation.
@@ -34,7 +44,7 @@ The SATURN Switch was documented as independently developed within H-ACS, subseq
 
 ## 2026-08-18
 
-### 2. SATURN Switch: Independent Development and Historical Correlation
+### 3. SATURN Switch: Independent Development and Historical Correlation
 **Status:** Operationally Tested  
 **Relation:** revised formulation of the 2026-08-17 SATURN Switch artifact
 
@@ -44,11 +54,11 @@ The revised artifact further formalizes the sequence **TRIGGER → SATURN → ST
 
 ## 2026-08-23
 
-### 3. Artifact 021 — H-ACS Status: Operationally Tested on One Operator
+### 4. Artifact 021 — H-ACS Status: Operationally Tested on One Operator
 
 H-ACS is documented as continuously used and locally operationally tested by one operator, while universal reproducibility remains unestablished.
 
-### 4. Artifact 022 — Symbolic Evidence Gate
+### 5. Artifact 022 — Symbolic Evidence Gate
 
 Introduces the rule:
 
@@ -56,31 +66,31 @@ Introduces the rule:
 
 Direct conversion of symbolic material into engineering fact is prohibited.
 
-### 5. Artifact 023 — Auditor Recursive Verification
+### 6. Artifact 023 — Auditor Recursive Verification
 
 Documents the recursive audit structure in which the auditor becomes subject to audit and no participant receives epistemic immunity.
 
-### 6. Artifact 024 — Documentation Load / Architect Addiction
+### 7. Artifact 024 — Documentation Load / Architect Addiction
 
 Documents the risk that methodological documentation and meta-work can expand faster than operational value. Documentation is not treated as an outcome by itself.
 
-### 7. Artifact 025 — External Calibration Gap
+### 8. Artifact 025 — External Calibration Gap
 
 Records the limitation created by the absence of an independent external operator reproducing H-ACS. Claims of universal reproducibility remain restricted.
 
-### 8. Artifact 026 — Biology as Foundation Layer
+### 9. Artifact 026 — Biology as Foundation Layer
 
 Defines biological recovery, especially sleep, as a foundation layer required for stable operational functioning rather than an optional additional ritual.
 
-### 9. Artifact 027 — SATURN Switch — Operational Response Mechanism
+### 10. Artifact 027 — SATURN Switch — Operational Response Mechanism
 
 Formalizes the sequence **trigger → pause → silence → analysis → structure → response** as an operationally tested procedure for replacing impulsive reaction with structured response.
 
-### 10. Artifact 028 — Recovery Window After Operational Overload
+### 11. Artifact 028 — Recovery Window After Operational Overload
 
 Defines recovery after prolonged load as a legitimate phase of the operational cycle rather than a failure of discipline. Artificially filling recovery with additional activity is identified as a potential source of cognitive debt.
 
-### 11. Artifact 029 — Self-Reported KPI Integrity Failure
+### 12. Artifact 029 — Self-Reported KPI Integrity Failure
 
 Identifies a measurement weakness: numerical KPIs had been formalized before an independent measurement mechanism existed. Future metrics require predefined measurement definitions, instruments, frequency and independent verification conditions.
 
@@ -88,7 +98,7 @@ Identifies a measurement weakness: numerical KPIs had been formalized before an 
 
 ## 2026-08-29
 
-### 12. Internal Artifact — Behavioral Deviation / Rapid Containment
+### 13. Internal Artifact — Behavioral Deviation / Rapid Containment
 **Evidence status:** Observation / Single Episode
 
 A behavioral deviation was recorded together with the subsequent containment sequence: **Deviation → Recognition → Containment → Return to constructive activity.** The artifact explicitly avoids treating either the deviation or the recovery as proof of universal stability.
@@ -97,7 +107,7 @@ A behavioral deviation was recorded together with the subsequent containment seq
 
 ## 2026-08-30
 
-### 13. Artifact — Iterative Human–AI Co-Adaptation
+### 14. Artifact — Iterative Human–AI Co-Adaptation
 **Evidence status:** Observation / Emerging Methodological Concept
 
 Documents the longitudinal interaction loop:
@@ -137,6 +147,8 @@ The strongest operationally tested line remained **SATURN Switch**. At the same 
 - KPI measurement-integrity requirements.
 
 The month also expanded the archive beyond protective/behavioral mechanisms into the **human–AI interaction layer**, with Iterative Human–AI Co-Adaptation recorded as an emerging methodological concept.
+
+The month also contains a distinct **transition-continuity artifact**: the preservation of H-ACS operation after a change in employment context, without treating the company itself as part of the methodology.
 
 A notable longitudinal pattern is the coexistence of **mechanism formation** and **mechanism restriction**: August did not only add new H-ACS concepts; it also added rules defining what the system is not yet entitled to claim.
 
